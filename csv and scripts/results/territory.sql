@@ -1,0 +1,10 @@
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('1', 'Northwest', 'United States', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('2', 'Northeast', 'United States', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('3', 'Central', 'United States', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('4', 'Southwest', 'United States', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('5', 'Southeast', 'United States', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('6', 'Canada', 'Canada', 'North America');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('7', 'France', 'France', 'Europe');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('8', 'Germany', 'Germany', 'Europe');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('9', 'Australia', 'Australia', 'Pacific');
+INSERT INTO territory (TerritoryKey, Region, Country, Group) VALUES ('10', 'United Kingdom', 'United Kingdom', 'Europe');
