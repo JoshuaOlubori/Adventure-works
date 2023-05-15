@@ -61,7 +61,7 @@
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG)
+![Dashboard](https://github.com/JoshuaOlubori/Adventure-works/blob/7fed1b5d60e198fa0c0f5fed1b00f2905e0f2481/screenshot.png)
 
 Tracking Accidents and Casualties across UK Roads in 2021 - 2022
 <a name="requirement"/>
