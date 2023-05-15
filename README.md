@@ -20,7 +20,7 @@
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/698fb9fe82c62ece6efcbfacfd0b0da29204812a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/clientname
+[linkedin-url]: https://linkedin.com/in/joshua-edun
 
 
 <!-- PROJECT LOGO -->
@@ -47,8 +47,6 @@
  <li><a href="#database-loading">Database loading</a></li>
 
  <li><a href="#creating-views">Creating views </a></li>
-
-
         <li><a href="#data-cleansing">Data cleansing </a></li> 
 <li><a href="#modeling">Data modeling</a></li>
    <li><a href="#visualization">Data visualization</a></li> 
@@ -63,9 +61,8 @@
   
 ## About The Project 🍪 
 
-![Dashboard]([https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG](https://github.com/JoshuaOlubori/Adventure-works/blob/333cf96b87513d67440219e1cdd760e7296e1c1f/screenshot.png)
-
-Tracking Accidents and Casualties across UK Roads in 2012
+![Dashboard](https://github.com/JoshuaOlubori/Adventure-works/blob/333cf96b87513d67440219e1cdd760e7296e1c1f/screenshot.png)
+Sales Dashboard
 <a name="requirement"/>
 ### Requirement Gathering
 
@@ -128,7 +125,7 @@ I wrote a Python <link to script> script using the csv and os modules, that take
   
 ### Loading into database 🧺
 
-a MySQL database was created to host the data. The ERD is shown below and using MySQL's built-in GUI tool, it was converted into a database schema
+A MySQL database was created to host the data. The ERD is shown below and using MySQL's built-in GUI tool, it was converted into a database schema
 
 <insert diagram here>
 
@@ -153,6 +150,7 @@ Issues
 The following star schema was created for the data model in Power BI
 
   <a name="visualization"/>
+  
 ### Data Visualization 🎨
 
 - Power BI magic!✨ The report pbix file is available in this repo to explore design decisions
