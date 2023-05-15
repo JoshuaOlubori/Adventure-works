@@ -149,6 +149,8 @@ Issues
 ### Data Modeling 🏛 
 
 The following star schema was created for the data model in Power BI
+  
+  ![Schema](https://github.com/JoshuaOlubori/Adventure-works/blob/6cad93b2e2eccc03fdc10b68281975093584982f/data%20model.png)
 
   <a name="visualization"/>
   
