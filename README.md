@@ -47,8 +47,6 @@
  <li><a href="#database-loading">Database loading</a></li>
 
  <li><a href="#creating-views">Creating views </a></li>
-
-
         <li><a href="#data-cleansing">Data cleansing </a></li> 
 <li><a href="#modeling">Data modeling</a></li>
    <li><a href="#visualization">Data visualization</a></li> 
@@ -153,6 +151,7 @@ Issues
 The following star schema was created for the data model in Power BI
 
   <a name="visualization"/>
+  
 ### Data Visualization 🎨
 
 - Power BI magic!✨ The report pbix file is available in this repo to explore design decisions
