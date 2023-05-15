@@ -9,11 +9,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-![MySQL](https://img.shields.io/static/v1?style=for-the-
-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
-![Python](https://img.shields.io/static/v1?style=for-the-
-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 [![MIT License][license-shield]][license-url]
