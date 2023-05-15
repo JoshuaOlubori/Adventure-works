@@ -9,18 +9,16 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-![MySQL](https://img.shields.io/static/v1?style=for-the-
-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
-![Python](https://img.shields.io/static/v1?style=for-the-
-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/698fb9fe82c62ece6efcbfacfd0b0da29204812a/LICENSE.txt
+[license-url]: https://github.com/JoshuaOlubori/Adventure-works/blob/6148e6dbdd38048df6a0061960b8009a0500e76a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshua-edun
 
@@ -49,8 +47,6 @@ badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
  <li><a href="#database-loading">Database loading</a></li>
 
  <li><a href="#creating-views">Creating views </a></li>
-
-
         <li><a href="#data-cleansing">Data cleansing </a></li> 
 <li><a href="#modeling">Data modeling</a></li>
    <li><a href="#visualization">Data visualization</a></li> 
@@ -65,9 +61,9 @@ badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG)
+![Dashboard](https://github.com/JoshuaOlubori/Adventure-works/blob/7fed1b5d60e198fa0c0f5fed1b00f2905e0f2481/screenshot.png)
 
-Tracking Accidents and Casualties across UK Roads in 2012
+Tracking Accidents and Casualties across UK Roads in 2021 - 2022
 <a name="requirement"/>
 ### Requirement Gathering
 
@@ -155,6 +151,7 @@ Issues
 The following star schema was created for the data model in Power BI
 
   <a name="visualization"/>
+  
 ### Data Visualization 🎨
 
 - Power BI magic!✨ The report pbix file is available in this repo to explore design decisions
