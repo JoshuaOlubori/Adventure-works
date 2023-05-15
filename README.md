@@ -157,8 +157,27 @@ The following star schema was created for the data model in Power BI
 ### Data Visualization 🎨
 
 - Power BI magic!✨ The report pbix file is available in this repo to explore design decisions
+  
+  The following DAX measures were used:
+  
+``` Non-Null Days = 
+CALCULATE(
+    COUNTROWS('awdb dim_calendar'),
+    NOT(ISBLANK('awdb dim_calendar'[Day]))
+)
 
+Top 10 Customers by Sales = 
+IF(RANKX(ALL('awdb dim_customer'[fullname]), [Total Sales],,DESC)<=10,[Total Sales], BLANK())
+
+Top 10 Products by Sales = 
+IF(RANKX(ALL('awdb dim_product'[product_name]), [Total Sales],,DESC)<=10,[Total Sales], BLANK())
+
+Total Sales = 
+SUM('awdb fact_sales'[SalesAmount])
+  ```
+  
   <a name="insights"/>
+  
 ### Deriving Insights
 
 - The primary source of revenue for the company is from the sales of bikes with 96% of sales coming from that category alone
