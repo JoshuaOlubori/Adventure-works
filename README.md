@@ -63,7 +63,7 @@
   
 ## About The Project 🍪 
 
-![Dashboard](https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG)
+![Dashboard]([https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG](https://github.com/JoshuaOlubori/Adventure-works/blob/333cf96b87513d67440219e1cdd760e7296e1c1f/screenshot.png)
 
 Tracking Accidents and Casualties across UK Roads in 2012
 <a name="requirement"/>
@@ -173,7 +173,6 @@ The following star schema was created for the data model in Power BI
 
 Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - joshuaolubori@gmail.com
 
-Project Link: [Check out the dashboard](https://joshuaolubori.my.canva.site/project-00k1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
