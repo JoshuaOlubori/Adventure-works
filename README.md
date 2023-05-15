@@ -9,11 +9,9 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-![MySQL](https://img.shields.io/static/v1?style=for-the-
-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 
-![Python](https://img.shields.io/static/v1?style=for-the-
-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 [![MIT License][license-shield]][license-url]
@@ -67,7 +65,7 @@ badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Dashboard](https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/ddfa9521399eadd8cea5f425101dffd880edaa39/dashboard.PNG)
 
-Tracking Accidents and Casualties across UK Roads in 2012
+Tracking Accidents and Casualties across UK Roads in 2021 - 2022
 <a name="requirement"/>
 ### Requirement Gathering
 
