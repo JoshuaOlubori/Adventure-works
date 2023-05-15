@@ -18,7 +18,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/JoshuaOlubori/sql-employee-analysis-a/blob/698fb9fe82c62ece6efcbfacfd0b0da29204812a/LICENSE.txt
+[license-url]: https://github.com/JoshuaOlubori/Adventure-works/blob/6148e6dbdd38048df6a0061960b8009a0500e76a/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/joshua-edun
 
