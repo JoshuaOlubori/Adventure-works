@@ -63,6 +63,8 @@
 
 ![Dashboard](https://github.com/JoshuaOlubori/Adventure-works/blob/7fed1b5d60e198fa0c0f5fed1b00f2905e0f2481/screenshot.png)
 
+Live Demo: [Here](https://app.powerbi.com/view?r=eyJrIjoiNzEwMmY3OWMtNmU3Zi00ZWU3LWFkNmYtYjQ1NGMwZjBjNjNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
+
 Tracking Accidents and Casualties across UK Roads in 2021 - 2022
 <a name="requirement"/>
 ### Requirement Gathering
@@ -192,6 +194,8 @@ SUM('awdb fact_sales'[SalesAmount])
 ## Contact
 
 Edun Joshua Olubori - [connect on linkedin](https://www.linkedin.com/in/joshua-edun) - joshuaolubori@gmail.com
+
+Live Demo: [Here](https://app.powerbi.com/view?r=eyJrIjoiNzEwMmY3OWMtNmU3Zi00ZWU3LWFkNmYtYjQ1NGMwZjBjNjNiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
